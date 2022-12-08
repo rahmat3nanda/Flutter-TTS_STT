@@ -47,5 +47,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Digunakan untuk melakukan pengenalan suara</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Digunakan untuk melakukan pengenalan suara</string>
 </dict>
 </plist>

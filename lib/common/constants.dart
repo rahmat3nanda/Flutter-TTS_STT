@@ -1,0 +1,1 @@
+export 'package:proto_bm2/common/constants/string.dart';
